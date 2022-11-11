@@ -10,7 +10,7 @@ This webpage is used by entering desired text into the notes box. Once text is i
 
 ## Deployed Application
 
-The live page is found at 
+The live page is found at https://si-note-taker.herokuapp.com/.
 
 ## Demo
 
